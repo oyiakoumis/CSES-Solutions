@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 void solve() {
   long long n;
   cin >> n;
@@ -10,9 +10,9 @@ void solve() {
     cout << n << endl;
   }
 }
-
+ 
 int main() {
   solve();
-
+ 
   return 0;
 }
